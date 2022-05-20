@@ -1,3 +1,5 @@
+console.log(`This probably the best profile u gonna c today so might as well just pass me lol`)
+
 const colorButton = document.getElementById('color');
 const placeButton = document.getElementById('place');
 const ritualButton = document.getElementById('ritual');
